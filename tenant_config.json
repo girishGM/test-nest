@@ -1,0 +1,8 @@
+{
+    "tenantConfig": [
+        {
+            "isIntroScreenOn": true,
+            "currency": "RM"
+        }
+    ]
+}
